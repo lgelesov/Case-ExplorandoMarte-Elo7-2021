@@ -6,7 +6,7 @@ Esse planalto, que curiosamente é retangular, deve ser explorado pelas sondas p
 
 A posição e direção de uma sonda são representadas por uma combinação de coordenadas x-y e uma letra representando a direção cardinal para qual a sonda aponta, seguindo a rosa dos ventos em inglês.
 
-![rosa dos ventos](https://img1.gratispng.com/20180412/rfq/kisspng-compass-rose-drawing-hand-compass-compass-5acef1718bc220.2742581315235116655725.jpg "Rosa dos Ventos")
+![rosa dos ventos](https://i.imgur.com/li8Ae5L.png "Rosa dos Ventos")
 
 O planalto é divido numa malha para simplificar a navegação. Um exemplo de posição seria (0, 0, N), que indica que a sonda está no canto inferior esquerdo e apontando para o Norte.
 
