@@ -1,20 +1,4 @@
 # Teste de Programação Elo7
-
-Como parte do processo seletivo do Elo7, gostaríamos que você fizesse uma 
-pequena tarefa. Conforme seu resultado daremos continuidade ao processo te 
-convidando para uma sessão de pair-programming.
- 
-Durante o desenvolvimento dê preferência para implementação em Java.
- 
-O objetivo dessa tarefa é avaliar como você vai desenvolver o código em termos 
-de estilo, eficiência e qualidade. 
- 
-Crie um projeto no seu Github para que vejamos os passos feitos através dos commits para resolver a tarefa.
-
-Sinta-se à vontade para criar em cima do problema abaixo. Caso algo não esteja claro, pode assumir o que seja mais claro para você e indique suas suposições em documentação. A especificação é bem básica e, portanto, caso deseje evoluir a ideia seguindo essa base, fique à vontade: por exemplo, adaptar as entradas e saídas para ser um serviço web, criar uma interface gráfica, etc.
-
-Qualquer dúvida maior pode nos perguntar, mas no geral, divirta-se!
-
 # Explorando Marte
 
 Um conjunto de sondas foi enviado pela NASA à Marte e irá pousar num planalto.
@@ -22,7 +6,7 @@ Esse planalto, que curiosamente é retangular, deve ser explorado pelas sondas p
 
 A posição e direção de uma sonda são representadas por uma combinação de coordenadas x-y e uma letra representando a direção cardinal para qual a sonda aponta, seguindo a rosa dos ventos em inglês.
 
-![rosa dos ventos](http://i.imgur.com/li8Ae5L.png "Rosa dos Ventos")
+![rosa dos ventos](https://img1.gratispng.com/20180412/rfq/kisspng-compass-rose-drawing-hand-compass-compass-5acef1718bc220.2742581315235116655725.jpg "Rosa dos Ventos")
 
 O planalto é divido numa malha para simplificar a navegação. Um exemplo de posição seria (0, 0, N), que indica que a sonda está no canto inferior esquerdo e apontando para o Norte.
 
